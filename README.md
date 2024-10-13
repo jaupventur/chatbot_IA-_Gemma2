@@ -39,7 +39,7 @@ Aqui está a lista com todas as ferramentas que foram utilizadas e são necessá
 - [Ollama](https://ollama.com/)
 - [Gemma2](https://ollama.com/library/gemma2)
 - [Telegram](https://telegram.org/)
-<h3>Cloning</h3>
+<h3>Clonagem</h3>
 
 Clone o projeto
 
